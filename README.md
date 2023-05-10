@@ -44,7 +44,7 @@ To run the Discord bot, follow these steps:
 
 ### Prerequisites
 
-1. Make sure you have Python 3.7 or higher installed on your system. You can check your Python version by running `python --version` or `python3 --version` in your terminal or command prompt.
+1. Make sure you have Python 3.8 or higher installed on your system. You can check your Python version by running `python --version` or `python3 --version` in your terminal or command prompt.
 
 2. Install the all the necessary library using pip:
 
