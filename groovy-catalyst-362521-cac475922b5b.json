@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "groovy-catalyst-362521",
+  "private_key_id": "cac475922b5b8d569c41e337f74bc0ba8f811eef",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCopPs506Rgn1dN\n/hEf9MiR/wnQHWdzH+17HM5xWdjW3zQseGGOywtiY5P3w7fFTebya95d0JU0ZBll\nHkGXZqJL7l3g4jOIxXQ+eulFADBE4gkyhi+JRnCEi1dYibOAnFBP3wV9l3MvJfTX\ntOE4QSOX8aIGCMsABvJI/yC2SilzbqJ1Ysehkh4ZfWLi4bNWcNlYCru341YmZptt\nt13U8ieWeFhcYdeNoqHmLRRcjVqMQR8J7RW/vGIAkLCgT5GrNXRHx9ZOKqHCXa1A\n9VxEXJOZX4KggvwjmmHGd2YJYpSrtN6RhRDLjqqN6VH22Oc0X3rA1yspcyu894W6\neVBz5KH/AgMBAAECggEACP7n7GaRiEU89croJJwSONYcXWQReRl1Dvyd4dD+Q+lF\nvLDdL1iTA7gLvrXLbzRfwy2lf7vubDbXXfFLuWTpolhAMgyO3YGpg42wihQ0/u+k\nYvQNGWr5pIWpmUObIMX1yL+SPj1JER+asbOTJ0TePll5dY3xhM+vYTJuucU3SdIW\nR5YjkODlTV9gARgh0SldXh9BbW8YdhXhQKjwBWmkndb/AkNOZr1eHeBuri9TWDS/\nwXJ3fqUYTVnqkVAoGCBXa3rXweBTyIc6cy7xXqHudiVN1nqVKg8QNne23P2VRomF\nprSdL7Oe7tUFb+udEo5cPjzI2Tz93BiJzNmI0wBTuQKBgQDXbtRKMYVUXGB55RRC\n9oB49zc4Uxi+wVmCJdAF+cI1qUFuT2Jr9PK7I8GfCaQa8vcnrZRCPLQq2OtXk/X6\nohm4pUfuwZa7lGUjkzgLZlgt7DaoaedsolGI/gl1cv8yUj20TV2ubW9YVk8h/xME\nKAtB6YSb2V9XjmtANj1PPpgdyQKBgQDIZqovJ0x5BQMIRmysBgYJyOCISUeUDKyU\nyukWYya3RUcPc81FJbVeGCTloDFae+3VXhzUpqPFqhn13aMepirEIV0XNLILyBUl\n32KXmhlCxtHIeI6f/u49yg7c7CHfZKXcIBSxsHWQZ7fAqZihms2N85+2rBpKUeOO\nofpXXFgFhwKBgD2/Jlmdl/l2ALDvV79Zp7kEIm+iYZVLFbyX2efcji2TNY3Icw0+\nR9Qbi4Np3/9ZZD2bIsNZYsplIg8X+Yi8rWKe/N8R3YImJlbr+0RJMTz4VzIuKIaa\nf4QkS9G+BCcIK2diRVeZRjCrjELSOUEXuSJLLBb/VrRhvZvJ8AimiDMBAoGAUTjb\nDRV+dyZC3l28udQPKnQSHOqmaijg4cWDxyEUlf8sF+U1cysfYS2j9rWAi03jTTFB\nuiZ4Bis1LmNQM6Hhf3COTFN9Pi0v9ROe4BcC2f+/EuNZ2xr18HEuqPfDmskuOBOA\nj6wXWhnPbfTO+eDGIxx0xRLn7OtXsX2Q+0tgGY0CgYEAlt7qjgwAF7MzMVxzLMhe\ns6f1rXv+87NlROT6WUpk/uEF3lfR2HV2Ruw6vJeBh0WUt/2aNKIVUA88Fz4ICAJb\n0jBVfPUvLrZl3ykiblQ+NydCKjZ8QpRlAI7K8iI2Xfr2Oap5MMxSD0KHJUtqZZjs\nd8MNFwjS4nFHUdZxhKI021A=\n-----END PRIVATE KEY-----\n",
+  "client_email": "texttospeech@groovy-catalyst-362521.iam.gserviceaccount.com",
+  "client_id": "113427862261926001628",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/texttospeech%40groovy-catalyst-362521.iam.gserviceaccount.com"
+}

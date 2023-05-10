@@ -1,0 +1,15 @@
+{
+    "1020277600972709888": {
+        "bot_status": "off"
+    },
+    "1078919934949728308": {
+        "bot_status": "on",
+        "disabled_commands": [],
+        "welcome_channel_id": 1105778017940287508
+    },
+    "892207968525877300": {
+        "bot_status": "off"
+    },
+    "bot_blacklist_channels": [],
+    "bot_blacklist_users": []
+}
