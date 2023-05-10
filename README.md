@@ -42,7 +42,13 @@ The following Python features were utilized in solving the problem:
 
 To run the Discord bot, follow these steps:
 
-### Prerequisites
+### Setting up the Discord bot
+
+1. Create a new Discord bot on the [Discord Developer Portal](https://discord.com/developers/applications). Follow the steps to set up your bot and obtain its token.
+
+2. Add the bot to your Discord server using the generated invite link.
+
+### Installing libraries
 
 1. Make sure you have Python 3.8 or higher installed on your system. You can check your Python version by running `python --version` or `python3 --version` in your terminal or command prompt.
 
@@ -52,11 +58,6 @@ To run the Discord bot, follow these steps:
 pip install -r requirements.txt
 ```
 
-### Setting up the Discord bot
-
-1. Create a new Discord bot on the [Discord Developer Portal](https://discord.com/developers/applications). Follow the steps to set up your bot and obtain its token.
-
-2. Add the bot to your Discord server using the generated invite link.
 
 ### Running the bot
 
