@@ -48,7 +48,7 @@ To run the Discord bot, follow these steps:
 
 2. Add the bot to your Discord server using the generated invite link.
 
-### Installing libraries
+### Installing python & libraries
 
 1. Make sure you have Python 3.8 or higher installed on your system. You can check your Python version by running `python --version` or `python3 --version` in your terminal or command prompt.
 
