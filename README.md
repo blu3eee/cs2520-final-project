@@ -38,6 +38,53 @@ The following Python features were utilized in solving the problem:
 4. List comprehensions and generators - Used for efficient data manipulation and processing.
 5. Asyncio and coroutines - Used for asynchronous programming and non-blocking operations with the Discord API.
 
+## How to Run
+
+To run the Discord bot, follow these steps:
+
+### Prerequisites
+
+1. Make sure you have Python 3.7 or higher installed on your system. You can check your Python version by running `python --version` or `python3 --version` in your terminal or command prompt.
+
+2. Install the all the necessary library using pip:
+
+```
+pip install -r requirements.txt
+```
+
+
+### Setting up the Discord bot
+
+1. Create a new Discord bot on the [Discord Developer Portal](https://discord.com/developers/applications). Follow the steps to set up your bot and obtain its token.
+
+2. Add the bot to your Discord server using the generated invite link.
+
+### Running the bot
+
+1. Clone or download the repository to your local machine.
+
+2. In the root directory of the project, create a `.env` file and add your bot token:
+
+```
+# in .env file
+BOT_TOKEN=your-bot-token-goes-here
+
+```
+
+Replace `your-bot-token-goes-here` with the actual token you obtained from the Discord Developer Portal.
+
+3. In the terminal or command prompt, navigate to the project directory and run the following command:
+
+```
+python main.py
+```
+
+Alternatively, you can use `python3 main.py` if your system uses Python 3 as `python3`.
+
+4. The bot should now be online and ready to use in your Discord server. Interact with the bot using the configured command prefix and available commands.
+
+Note: To stop the bot, press `Ctrl + C` in the terminal or command prompt where it is running.
+
 ## Conclusion
 
 This project successfully created a Discord bot using Python and the Nextcord library, providing a modular and extensible solution for server administrators. By implementing the design ideas and using key Python features, the bot offers an easy-to-use interface for users and improved server management capabilities.
