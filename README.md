@@ -52,7 +52,6 @@ To run the Discord bot, follow these steps:
 pip install -r requirements.txt
 ```
 
-
 ### Setting up the Discord bot
 
 1. Create a new Discord bot on the [Discord Developer Portal](https://discord.com/developers/applications). Follow the steps to set up your bot and obtain its token.
